@@ -1,6 +1,6 @@
 ## 👋 Hi, this is Alex
 
-I'm passionate about Computer Science. I love exploring emerging technologies, programming languages, and tools. 
+I'm passionate about Computer Science. I love exploring new technologies, programming languages, and tools. 
 
 ### 👀 What I'm Interested In:
 - Exploring emerging tech: AI, IoT, cloud computing, and more.
@@ -9,6 +9,8 @@ I'm passionate about Computer Science. I love exploring emerging technologies, p
 
 ### 🌱 Currently Learning:
 - Advancing my knowledge in AI and Data Science.
+- CS50x 2024 from Harvardx.
+- Check out my latest project in Scratch: [Traffic lights v1.1 by Alex Sada](https://scratch.mit.edu/projects/996771856)
 
 ### 💞 Looking to Collaborate On:
 - Open-source projects in data science and warehousing.
@@ -18,4 +20,4 @@ I'm passionate about Computer Science. I love exploring emerging technologies, p
 - 🐦 Twitter: [twitter.com/thealexsada](https://twitter.com/thealexsada)
 - 📧 Email: [thealexsada@gmail.com](mailto:thealexsada@gmail.com)
 
-🚀 Let's connect and collaborate on exciting projects that make a difference!
+🚀 Let's connect and collaborate on exciting projects!

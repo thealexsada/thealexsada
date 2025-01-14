@@ -1,23 +1,38 @@
-## 👋 Hi, I'm Alex
+# 👋 Hi, I'm **Alex Sada**
 
-I'm passionate about Computer Science. I love exploring new technologies, programming languages, and tools. 
+🎯 **Data Analyst** and **BI Developer** | 📊 Turning data into actionable insights | 🧑‍💻 Passionate about technology, data science, and innovation  
 
-### 👀 What I'm Interested In:
-- Exploring AI.
-- Creating innovative solutions through coding platforms.
-- Teaching and guiding others in day-to-day software and data science.
+---
 
-### 🌱 Currently Learning:
-- Advancing my knowledge in AI and Data Science.
-- CS50x 2024 from Harvardx.
-- Check out my latest project in Scratch: [Traffic lights v1.1 by Alex Sada](https://scratch.mit.edu/projects/996771856)
+## 👀 **About Me**
+- 🚀 Enthusiastic about exploring new technologies and creating innovative solutions through **data** and **code**.  
+- 🎓 Recently completed **CS50x 2024** from HarvardX.  
+- 🌐 Proficient in **Microsoft BI Suite**, **Python**, **SQL**, and **ETL pipelines**.
 
-### 💞 Looking to Collaborate On:
-- Open-source projects in data science and warehousing.
+---
 
-### 📫 How to Reach Me:
-- 🌐 LinkedIn: [linkedin.com/in/thealexsada](https://linkedin.com/in/thealexsada)
-- ✖️ X: [x.com/thealexsada](https://x.com/thealexsada)
-- 📧 Email: [thealexsada@gmail.com](mailto:thealexsada@gmail.com)
+## 🌱 **Currently Learning**
+- Advanced **Data Science** concepts and **AI frameworks**.  
+- Enhancing expertise in **data warehousing** and **interactive dashboards**.  
 
-🚀 Let's connect and collaborate on exciting projects!
+---
+
+## 🔧 **My Latest Projects**
+- 🐍 **[Rifa de Nomes](https://github.com/thealexsada/rifadenomes)**: A Python-based raffle system for names.  
+- 🌐 **[Traffic Lights v1.1](https://scratch.mit.edu/projects/996771856)**: A Scratch project simulating traffic light logic.  
+
+---
+
+## 💬 **What I'm Interested In**
+- 📊 Collaborating on open-source projects in **Data Science** and **Data Engineering**.  
+- 🌟 Contributing to community-driven initiatives that solve real-world problems using **data**.
+
+---
+
+## 📫 **Connect with Me**
+- 🌐 **LinkedIn**: [linkedin.com/in/thealexsada](https://linkedin.com/in/thealexsada)  
+- ✉️ **Email**: [alex.sada@bi-mad.com](mailto:alex.sada@bi-mad.com)  
+
+---
+
+🤝 **Let’s collaborate and build something amazing together!**

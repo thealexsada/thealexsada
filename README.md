@@ -31,7 +31,7 @@
 
 ## 📫 **Connect with Me**
 - 🌐 **LinkedIn**: [linkedin.com/in/thealexsada](https://linkedin.com/in/thealexsada)
-- 🌳 **Linktree**: [https://linktr.ee/thealexsada](https://linktr.ee/thealexsada)
+- 🌳 **Linktree**: [linktr.ee/thealexsada](https://linktr.ee/thealexsada)
 - ✉️ **Email**: [alex.sada@bi-mad.com](mailto:alex.sada@bi-mad.com)  
 
 ---

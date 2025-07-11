@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Alex Sada
 
-🎯 **BI Developer @ MVP Studio** | 📊 Turning Australian real estate data into actionable insights | 🧑‍💻 Passionate about Power BI, AI, and innovation  
+🎯 **BI Developer @ MVP Studio** | 📊 Turning data into actionable insights | 🧑‍💻 Passionate about Power BI, AI, and innovation  
 
 ---
 

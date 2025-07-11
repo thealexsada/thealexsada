@@ -5,9 +5,9 @@
 ---
 
 ## 👀 **About Me**
-I’m an innovative BI Developer designing Power BI dashboards and ETL pipelines with SSIS at MVP Studio. I use the Kimball methodology and star schema in Azure Fabric Lakehouse to build data warehouses for advanced analytics. My journey—from tech internships in Mexico to BI projects in Auckland, NZ—fuels my resilience and curiosity.
+I’m an dedicated BI Developer designing Power BI dashboards and ETL pipelines with SSIS at MVP Studio. I use the Kimball methodology and star schema in Azure Fabric Lakehouse to build data warehouses for advanced analytics. My journey—from tech internships in Mexico to BI projects in Auckland, NZ—fuels my resilience and curiosity.
 
-🎓 I recently completed Harvard’s CS50 (2024) and Industry Connect’s BI Developer Certification (2024), mastering SQL, Python, and data engineering.
+🎓 I recently completed Industry Connect’s BI Developer Certification (2024), mastering SQL, Power BI, and data engineering.
 
 ---
 
